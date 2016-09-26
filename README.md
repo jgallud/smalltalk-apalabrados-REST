@@ -1,7 +1,7 @@
 smalltalk-apalabrados-REST
 ==========================
 
-Prototipo del juego Apalbrados en Smalltalk
+Prototipo del juego Apalabrados en Smalltalk
 
 This prototype was developed during the academic year 12-13 in the course "Object-Oriented Programming".
 
